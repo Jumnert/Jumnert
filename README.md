@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Choun Theachumnith
 A Cse Student
 
 
