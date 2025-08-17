@@ -1,5 +1,5 @@
 # Choun Theachumnith
-A Cse Student
+Currently pursuing Computer Science and Engineering Degree at Acleda University of Business
 
 
 #Tech Stack:<br/>
